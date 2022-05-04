@@ -1,3 +1,4 @@
-/avenv
-.env
+/djangoauthapi1/avenv
+../.env
 avenv
+.env
